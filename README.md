@@ -6,5 +6,5 @@ How to run:
 2. Run the backend/server.js in node - npm server.js
 3. Open the frontend/index.html to start the game.
 4. When 2 instances of index.html will be open the game will start (if another instance will be open the new user will get an error because the game is only for 2 players).
-5. If its your turn press on an empty cell in order to make a move.
+5. If it's your turn press on an empty cell in order to make a move.
 6. Have FUN!
